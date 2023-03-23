@@ -4,7 +4,6 @@
   <h3>Sobre: </h3>
   <ul>
    <li>🎓 IFMG Campus Formiga</li>
-   <li>📌 Formiga - Minas Gerais, Brasil</li>
   </ul>
  </div>
 
