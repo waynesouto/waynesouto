@@ -9,11 +9,11 @@ I'm Wayne Souto, a passionate software developer and tech enthusiast.
 
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soutowhs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soutowhs)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waynesouto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waynesouto)
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=soutowhs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soutowhs&theme=dark&hide_border=false" width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=waynesouto&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=waynesouto&theme=dark&hide_border=false" width="400px" />
 
-<img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutowhs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynesouto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
  
